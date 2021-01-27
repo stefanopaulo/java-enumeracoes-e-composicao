@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\Stefano\www\ws-eclipse\enumeracoes-e-composicao\.metadata\.plugins\org.eclipse.jdt.core
